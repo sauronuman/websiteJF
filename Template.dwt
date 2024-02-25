@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<script type="text/javascript" src="textsizer.js">
+
+/***********************************************
+* Document Text Sizer- Copyright 2003 - Taewook Kang.  All rights reserved.
+* Coded by: Taewook Kang (http://www.txkang.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+<meta content="en-gb" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.Navigation {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: x-large;
+}
+.auto-style5 {
+	border-style: solid;
+	border-color: #E02D3C;
+	text-align: center;
+}
+.Footer {
+	border-style: solid;
+	border-color: #E02D3C;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.auto-style7 {
+	border-width: 0px;
+	margin-left: 0px;
+}
+.auto-style8 {
+	border-width: 0px;
+	margin-right: 9px;
+}
+.auto-style10 {
+	font-size: x-large;
+}
+.Navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+}
+.auto-style12 {
+	text-align: center;
+	font-size: x-large;
+}
+.auto-style13 {
+	border-width: 0px;
+}
+.Navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<table style="width: 100%; height: 400px;">
+	<tr>
+		<td colspan="6">
+		<img alt="Hot Beans Banner" class="auto-style1" height="272" src="Images/Hot%20Beans%20Final%20Banner.jpg" width="100%" /></td>
+	</tr>
+	<tr>
+		<td style="height: 17px; width: 20%" class="auto-style12"><strong>
+		<span class="Navigation"><a class="auto-style14" href="Index.html">
+		<span class="Navigation">Home</span></a><span class="auto-style10">
+		</span> </span></strong></td>
+		<td style="height: 17px; width: 20%" class="auto-style4"><strong>
+		<span class="Navigation">
+		<a class="Navigation" href="HTML/Our%20staff.html">Our Staff </a> </span></strong></td>
+		<td class="auto-style4" style="height: 17px; width: 20%;"><strong>
+		<a class="Navigation" href="HTML/Job%20Requirements.html">Job Requirements</a></strong></td>
+		<td class="auto-style4" style="height: 17px; width: 20%;"><strong>
+		<a class="Navigation" href="HTML/Application%20Form.html">Application Form
+		</a>
+		</strong></td>
+		<td class="auto-style4" style="height: 17px; width: 20%;"><strong>
+		<a class="Navigation" href="HTML/Web%20Courses.html">Web Courses</a></strong></td>
+		<td style="height: 17px"></td>
+	</tr>
+	<tr>
+		<td colspan="6" style="height: 39px"><!-- #BeginEditable "Text" -->
+		<p>(Text)</p>
+<!-- #EndEditable -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6" style="height: 40px">
+		<table style="width: 100%">
+			<tr>
+				<td style="height: 23px; width: 12.5%;" class="auto-style5">
+				<a href="http://www.snapchat.com">
+				<img alt="Snapchat Logo" height="106" src="Images/Social%20Media%20Logos/snapchat%20logo.jpg" width="101" class="auto-style7" /></a></td>
+				<td style="height: 23px; width: 12%;" class="auto-style5">
+				<img alt="twitter logo" height="106" src="Images/Social%20Media%20Logos/twitter.jpg" width="101" /></td>
+				<td class="Footer" style="height: 23px; width: 50%;">Address: 45 
+				Croydon Road, London, UK E1 8RU<br />
+				Email Address: <a href="mailto:hbw763@hotmail.com">
+				hbw763@hotmail.com</a><br />
+				Contact No: 07835692764</td>
+				<td style="height: 23px; width: 12.5%" class="auto-style5">
+				<a href="http://www.facebook.com">
+				<img alt="Facebook Logo" height="80" src="Images/Social%20Media%20Logos/facebook%20logo.png" width="114" class="auto-style8" /></a></td>
+				<td style="height: 23px; width: 12.5%" class="auto-style5">
+				<a href="http://www.instagram.com">
+				<img alt="Instagram Logo" height="80" src="Images/Social%20Media%20Logos/instagram%20logo.png" width="73" class="auto-style13" /></a></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
